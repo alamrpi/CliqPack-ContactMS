@@ -17,3 +17,4 @@ D:\projects\Interview\ContactManagementSystem\ContactMS.Application\bin\Debug\ne
 D:\projects\Interview\ContactManagementSystem\ContactMS.Application\bin\Debug\net8.0\ContactMS.Utility.pdb
 D:\projects\Interview\ContactManagementSystem\ContactMS.Application\bin\Debug\net8.0\ContactMS.Contracts.dll
 D:\projects\Interview\ContactManagementSystem\ContactMS.Application\bin\Debug\net8.0\ContactMS.Contracts.pdb
+D:\projects\Interview\ContactManagementSystem\ContactMS.Application\obj\Debug\net8.0\ContactMS.Application.sourcelink.json

@@ -9,3 +9,4 @@ D:\projects\Interview\ContactManagementSystem\ContactMS.Contracts\obj\Debug\net8
 D:\projects\Interview\ContactManagementSystem\ContactMS.Contracts\obj\Debug\net8.0\refint\ContactMS.Contracts.dll
 D:\projects\Interview\ContactManagementSystem\ContactMS.Contracts\obj\Debug\net8.0\ContactMS.Contracts.pdb
 D:\projects\Interview\ContactManagementSystem\ContactMS.Contracts\obj\Debug\net8.0\ref\ContactMS.Contracts.dll
+D:\projects\Interview\ContactManagementSystem\ContactMS.Contracts\obj\Debug\net8.0\ContactMS.Contracts.sourcelink.json

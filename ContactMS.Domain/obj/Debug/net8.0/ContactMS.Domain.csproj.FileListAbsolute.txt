@@ -10,3 +10,4 @@ D:\projects\Interview\ContactManagementSystem\ContactMS.Domain\obj\Debug\net8.0\
 D:\projects\Interview\ContactManagementSystem\ContactMS.Domain\obj\Debug\net8.0\refint\ContactMS.Domain.dll
 D:\projects\Interview\ContactManagementSystem\ContactMS.Domain\obj\Debug\net8.0\ContactMS.Domain.pdb
 D:\projects\Interview\ContactManagementSystem\ContactMS.Domain\obj\Debug\net8.0\ref\ContactMS.Domain.dll
+D:\projects\Interview\ContactManagementSystem\ContactMS.Domain\obj\Debug\net8.0\ContactMS.Domain.sourcelink.json

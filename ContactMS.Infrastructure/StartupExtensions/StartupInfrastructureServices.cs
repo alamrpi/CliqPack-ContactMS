@@ -39,8 +39,7 @@ namespace ContactMS.Infrastructure.StartupExtensions
         /// <returns></returns>
         private static IServiceCollection AddPersistance(this IServiceCollection services, ConfigurationManager configuration)
         {
-            services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(
-                configuration.GetConnectionString("DefaultConnection")));
+            services.AddDbContext<ApplicationDbContext>();
 
             services.AddIdentity<ApplicationUser, IdentityRole>(options =>
             {

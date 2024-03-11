@@ -21,3 +21,4 @@ D:\projects\Interview\ContactManagementSystem\ContactMS.Infrastructure\obj\Debug
 D:\projects\Interview\ContactManagementSystem\ContactMS.Infrastructure\obj\Debug\net8.0\ref\ContactMS.Infrastructure.dll
 D:\projects\Interview\ContactManagementSystem\ContactMS.Infrastructure\bin\Debug\net8.0\ContactMS.Contracts.dll
 D:\projects\Interview\ContactManagementSystem\ContactMS.Infrastructure\bin\Debug\net8.0\ContactMS.Contracts.pdb
+D:\projects\Interview\ContactManagementSystem\ContactMS.Infrastructure\obj\Debug\net8.0\ContactMS.Infrastructure.sourcelink.json

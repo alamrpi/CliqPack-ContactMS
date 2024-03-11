@@ -166,3 +166,5 @@ D:\projects\Interview\ContactManagementSystem\ContactMS.Api\bin\Debug\net8.0\Asp
 D:\projects\Interview\ContactManagementSystem\ContactMS.Api\bin\Debug\net8.0\Asp.Versioning.Http.dll
 D:\projects\Interview\ContactManagementSystem\ContactMS.Api\bin\Debug\net8.0\Asp.Versioning.Mvc.dll
 D:\projects\Interview\ContactManagementSystem\ContactMS.Api\bin\Debug\net8.0\Asp.Versioning.Mvc.ApiExplorer.dll
+D:\projects\Interview\ContactManagementSystem\ContactMS.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\projects\Interview\ContactManagementSystem\ContactMS.Api\obj\Debug\net8.0\ContactMS.Api.sourcelink.json

@@ -10,3 +10,4 @@ D:\projects\Interview\ContactManagementSystem\ContactMS.Utility\obj\Debug\net8.0
 D:\projects\Interview\ContactManagementSystem\ContactMS.Utility\obj\Debug\net8.0\ContactMS.Utility.pdb
 D:\projects\Interview\ContactManagementSystem\ContactMS.Utility\obj\Debug\net8.0\ref\ContactMS.Utility.dll
 D:\projects\Interview\ContactManagementSystem\ContactMS.Utility\obj\Debug\net8.0\ContactMS.Utility.csproj.AssemblyReference.cache
+D:\projects\Interview\ContactManagementSystem\ContactMS.Utility\obj\Debug\net8.0\ContactMS.Utility.sourcelink.json

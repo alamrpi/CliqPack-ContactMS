@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "fiISOQW5twEu3an/2zbh/buOGXyEAqa++K9yh9Y55uC/f7PiZSukZuBlzSy7vYLtcj5FRQGSfu7oKt6UNViOJg==",
+  "dgSpecHash": "/kHZPgbBWnHo5JeScV42IZenD1xdic+XcOtIRJqhlAC2fZhAZDCZznvVri0Q7Ytt2sJ58mkl8nUZiqZQQJYxEQ==",
   "success": true,
   "projectFilePath": "D:\\projects\\Interview\\ContactManagementSystem\\ContactMS.Api\\ContactMS.Api.csproj",
   "expectedPackageFiles": [
@@ -38,6 +38,7 @@
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.2\\microsoft.entityframeworkcore.abstractions.8.0.2.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.2\\microsoft.entityframeworkcore.analyzers.8.0.2.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.entityframeworkcore.design\\8.0.2\\microsoft.entityframeworkcore.design.8.0.2.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\8.0.2\\microsoft.entityframeworkcore.inmemory.8.0.2.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\8.0.2\\microsoft.entityframeworkcore.relational.8.0.2.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\8.0.2\\microsoft.entityframeworkcore.sqlserver.8.0.2.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
