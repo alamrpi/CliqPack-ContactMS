@@ -1,0 +1,1 @@
+D:\projects\Interview\ContactManagementSystem\ConctactMS.UI\obj\Debug\conctactms.ui.esproj.CoreCompileInputs.cache

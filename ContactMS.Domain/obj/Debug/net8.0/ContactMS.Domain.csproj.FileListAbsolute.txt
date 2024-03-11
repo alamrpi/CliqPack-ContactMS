@@ -1,0 +1,12 @@
+D:\projects\Interview\ContactManagementSystem\ContactMS.Domain\bin\Debug\net8.0\ContactMS.Domain.deps.json
+D:\projects\Interview\ContactManagementSystem\ContactMS.Domain\bin\Debug\net8.0\ContactMS.Domain.dll
+D:\projects\Interview\ContactManagementSystem\ContactMS.Domain\bin\Debug\net8.0\ContactMS.Domain.pdb
+D:\projects\Interview\ContactManagementSystem\ContactMS.Domain\obj\Debug\net8.0\ContactMS.Domain.csproj.AssemblyReference.cache
+D:\projects\Interview\ContactManagementSystem\ContactMS.Domain\obj\Debug\net8.0\ContactMS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\Interview\ContactManagementSystem\ContactMS.Domain\obj\Debug\net8.0\ContactMS.Domain.AssemblyInfoInputs.cache
+D:\projects\Interview\ContactManagementSystem\ContactMS.Domain\obj\Debug\net8.0\ContactMS.Domain.AssemblyInfo.cs
+D:\projects\Interview\ContactManagementSystem\ContactMS.Domain\obj\Debug\net8.0\ContactMS.Domain.csproj.CoreCompileInputs.cache
+D:\projects\Interview\ContactManagementSystem\ContactMS.Domain\obj\Debug\net8.0\ContactMS.Domain.dll
+D:\projects\Interview\ContactManagementSystem\ContactMS.Domain\obj\Debug\net8.0\refint\ContactMS.Domain.dll
+D:\projects\Interview\ContactManagementSystem\ContactMS.Domain\obj\Debug\net8.0\ContactMS.Domain.pdb
+D:\projects\Interview\ContactManagementSystem\ContactMS.Domain\obj\Debug\net8.0\ref\ContactMS.Domain.dll

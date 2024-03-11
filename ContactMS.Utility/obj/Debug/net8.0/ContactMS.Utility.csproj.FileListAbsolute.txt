@@ -1,0 +1,12 @@
+D:\projects\Interview\ContactManagementSystem\ContactMS.Utility\bin\Debug\net8.0\ContactMS.Utility.deps.json
+D:\projects\Interview\ContactManagementSystem\ContactMS.Utility\bin\Debug\net8.0\ContactMS.Utility.dll
+D:\projects\Interview\ContactManagementSystem\ContactMS.Utility\bin\Debug\net8.0\ContactMS.Utility.pdb
+D:\projects\Interview\ContactManagementSystem\ContactMS.Utility\obj\Debug\net8.0\ContactMS.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\Interview\ContactManagementSystem\ContactMS.Utility\obj\Debug\net8.0\ContactMS.Utility.AssemblyInfoInputs.cache
+D:\projects\Interview\ContactManagementSystem\ContactMS.Utility\obj\Debug\net8.0\ContactMS.Utility.AssemblyInfo.cs
+D:\projects\Interview\ContactManagementSystem\ContactMS.Utility\obj\Debug\net8.0\ContactMS.Utility.csproj.CoreCompileInputs.cache
+D:\projects\Interview\ContactManagementSystem\ContactMS.Utility\obj\Debug\net8.0\ContactMS.Utility.dll
+D:\projects\Interview\ContactManagementSystem\ContactMS.Utility\obj\Debug\net8.0\refint\ContactMS.Utility.dll
+D:\projects\Interview\ContactManagementSystem\ContactMS.Utility\obj\Debug\net8.0\ContactMS.Utility.pdb
+D:\projects\Interview\ContactManagementSystem\ContactMS.Utility\obj\Debug\net8.0\ref\ContactMS.Utility.dll
+D:\projects\Interview\ContactManagementSystem\ContactMS.Utility\obj\Debug\net8.0\ContactMS.Utility.csproj.AssemblyReference.cache

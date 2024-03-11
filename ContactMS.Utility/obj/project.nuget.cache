@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kqxM1MQjWUPCIM0QY6IrWF7KVXPlWH+jgsNc0alUmrWV0Q0fJ2MvmC4X/qRKqz7hgk07B3Ot4Nn0IwvdNyOzIQ==",
+  "success": true,
+  "projectFilePath": "D:\\projects\\Interview\\ContactManagementSystem\\ContactMS.Utility\\ContactMS.Utility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\erroror\\1.10.0\\erroror.1.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}
